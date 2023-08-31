@@ -3,28 +3,13 @@
 <head>
   <script>
     function loadXML() {
-      var xhttp = new XMLHttpRequest();
-      xhttp.onreadystatechange = function() {
-        if (this.readyState == 4 && this.status == 200) {
-          // Get the XML document
-          var xmlDoc = this.responseXML;
-
-          // Parse the XML data
-          var text = xmlDoc.getElementsByTagName("yourTag")[0].childNodes[0].nodeValue;
-
-          // Display the data in the HTML
-          document.getElementById("display").innerHTML = text;
-        }
-      };
       xhttp.open("GET", "1.xml", true);
       xhttp.send();
     }
   </script>
 </head>
 <body>
-
-  <button onclick="loadXML()">Load XML File</button>
+  <button onclick="loadXML()"></button>
   <div id="display"></div>
-
 </body>
 </html>
