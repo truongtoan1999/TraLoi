@@ -1,0 +1,1073 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Toan</Author>
+  <LastAuthor>Administrator</LastAuthor>
+  <Created>2023-03-28T14:09:12Z</Created>
+  <LastSaved>2023-05-08T11:34:04Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>17640</WindowHeight>
+  <WindowWidth>29040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Interior ss:Color="#8EA9DB" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Interior ss:Color="#F2F2F2" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#F2F2F2" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="m/d"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="226" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="79.5" ss:DefaultRowHeight="18">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="208.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="113.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="117"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Ngày nhận</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Tên máy</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Tình trạng</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Hiện tại</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">27/3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Sony 71311N</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">vs</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">HP 14</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Sấy + vs</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Lenovo C340</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Nâng ram 4gb</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">PC (BNI)</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Chạy tắt</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Đang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">28/3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">HP 810 G2 (PLU$)</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Mất nguồn </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Đang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Toshiba L740</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Mất nguồn </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Đang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">29/3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Vga</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ko xuất hình</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Đang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">MSI GF66</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bản lề</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Asus FA506</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Cài phần mềm</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">30/3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">MSI GF63</Data></Cell>
+    <Cell><Data ss:Type="String">Cài phần mềm</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Asus X541U</Data></Cell>
+    <Cell><Data ss:Type="String">Mất nguồn + vs</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Đang KT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">PC (BNI)</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Chạy tắt</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Toshiba L740</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Mất nguồn </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">MSI GF66</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Bản lề</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">31/3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">PC  </Data></Cell>
+    <Cell><Data ss:Type="String">lỗi main, cpu</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Chờ báo giá</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-01-04T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">HP 810 G2 (PLU$)</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Mất nguồn </Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Vga</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Ko xuất hình</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">PC (Hải Dương)</Data></Cell>
+    <Cell><Data ss:Type="String">Chạy tắt</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Đang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Lenovo Ideapad 5</Data></Cell>
+    <Cell><Data ss:Type="String">Bản lề, cell pin</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Mới nhận</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Dell 5558</Data></Cell>
+    <Cell><Data ss:Type="String">Nháy màn</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-02-04T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Asus (chị Lam PLU$)</Data></Cell>
+    <Cell><Data ss:Type="String">Không nhận usb</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-03-04T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Sắp xếp sạc</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s16"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Asus X541U</Data></Cell>
+    <Cell><Data ss:Type="String">Mất nguồn + vs</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Nhập Sheet (Được Học)</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s16"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-04-04T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:Index="4" ss:StyleID="s16"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Lenovo Ideapad 5</Data></Cell>
+    <Cell><Data ss:Type="String">Bản lề, cell pin</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-05-04T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:Index="4" ss:StyleID="s16"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Asus (chị Lam PLU$)</Data></Cell>
+    <Cell><Data ss:Type="String">Không nhận usb</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s16">
+    <Cell ss:StyleID="Default"/>
+    <Cell><Data ss:Type="String">Dell 5558</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nháy màn</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-06-04T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Dell 15</Data></Cell>
+    <Cell><Data ss:Type="String">Vs + Win + Cad</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Thung PC</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">VGA (HDMI)</Data></Cell>
+    <Cell><Data ss:Type="String">Đang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Dell E7450 (C.Dung)</Data></Cell>
+    <Cell><Data ss:Type="String">Mất nguồn</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-07-04T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Dell (Chi Hân)</Data></Cell>
+    <Cell><Data ss:Type="String">Bản lề</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s16"><Data ss:Type="String">Dell (CN1)</Data></Cell>
+    <Cell><Data ss:Type="String">Rát hình</Data></Cell>
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Đang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell><Data ss:Type="String">Lỗi AI</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell><Data ss:Type="String">Cài TrendMicro</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Ktra máy (Được Học)</Data></Cell>
+    <Cell><Data ss:Type="String">3 máy</Data></Cell>
+    <Cell><Data ss:Type="String">Đang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-08-04T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Lấy máy Được Học về CN2</Data></Cell>
+    <Cell><Data ss:Type="String">4 máy</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell</Data></Cell>
+    <Cell><Data ss:Type="String">Sạc ko nhận + vệ sinh</Data></Cell>
+    <Cell><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Quay video tháo lắp</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Quay video vệ sinh</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-10-04T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell P102F</Data></Cell>
+    <Cell><Data ss:Type="String">Ko nhận sạc</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-11-04T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HP (Được Học)</Data></Cell>
+    <Cell><Data ss:Type="String">Nâng ssd</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">HP (Được Học)</Data></Cell>
+    <Cell><Data ss:Type="String">Nâng ssd</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Hp (A.Hải)</Data></Cell>
+    <Cell><Data ss:Type="String">Rớt không lên nguồn</Data></Cell>
+    <Cell><Data ss:Type="String">Xong, chưa giao</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Asus (C.Lan)</Data></Cell>
+    <Cell><Data ss:Type="String">không nhận sạc</Data></Cell>
+    <Cell><Data ss:Type="String">Xong, chưa giao</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell </Data></Cell>
+    <Cell><Data ss:Type="String">Thay ssd 1tb</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Nâng cấp PC (A.Thạch)</Data></Cell>
+    <Cell><Data ss:Type="String">1 PC Ram 8gb + ssd 120</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">2 PC ssd 120gb</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3"><Data ss:Type="String">1 PC ssd 120 + hdd 1tb</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-12-04T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Lenovo (Được Học)</Data></Cell>
+    <Cell><Data ss:Type="String">Nâng ssd</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Lenovo (Được Học)</Data></Cell>
+    <Cell><Data ss:Type="String">Nâng ssd + Phím</Data></Cell>
+    <Cell><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Hp G42</Data></Cell>
+    <Cell><Data ss:Type="String">Kích tắt</Data></Cell>
+    <Cell><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Vệ sinh PC (OLAM FOODS)</Data></Cell>
+    <Cell><Data ss:Type="String">3 PC + 1 Chuột M270</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Nhận thùng Biên Nhận</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Giao Dell 7480</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">13/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Lenovo (Được Học)</Data></Cell>
+    <Cell><Data ss:Type="String">Nâng ssd + Phím</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Book 4 Sạc</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Hp (A.Hải)</Data></Cell>
+    <Cell><Data ss:Type="String">Rớt không lên nguồn</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Asus (C.Lan)</Data></Cell>
+    <Cell><Data ss:Type="String">không nhận sạc</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Thung PC</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">VGA (HDMI)</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell </Data></Cell>
+    <Cell><Data ss:Type="String">Thay ssd 1tb</Data></Cell>
+    <Cell><Data ss:Type="String">Đã nhận</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell><Data ss:Type="String">Cty Nguyên Đức</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">14/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell 5420 (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + thay mặt B</Data></Cell>
+    <Cell><Data ss:Type="String">Đã nhận</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">fujitsu (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + thay mặt B</Data></Cell>
+    <Cell><Data ss:Type="String">Đã nhận</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell 15 (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + bản lề</Data></Cell>
+    <Cell><Data ss:Type="String">Đã nhận</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell </Data></Cell>
+    <Cell><Data ss:Type="String">Thay ssd 1tb</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PC bảo hành</Data></Cell>
+    <Cell><Data ss:Type="String">Bảo hành</Data></Cell>
+    <Cell><Data ss:Type="String">Đang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Nhận 2 căp loa Asus</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">15/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PC bảo hành</Data></Cell>
+    <Cell><Data ss:Type="String">Bảo hành</Data></Cell>
+    <Cell><Data ss:Type="String">Test ok (chưa giao)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell 5420 (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + thay mặt B</Data></Cell>
+    <Cell><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">fujitsu (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + thay mặt B</Data></Cell>
+    <Cell><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell 15 (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + bản lề</Data></Cell>
+    <Cell><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell CN1</Data></Cell>
+    <Cell><Data ss:Type="String">Vs + Cad + Sketchup</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dọn dẹp </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">16/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Asus S510U</Data></Cell>
+    <Cell><Data ss:Type="String">Ktr + nâng ram 8gb + vs</Data></Cell>
+    <Cell><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">17/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell 5420 (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + thay mặt B</Data></Cell>
+    <Cell><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">fujitsu (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + thay mặt B</Data></Cell>
+    <Cell><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell 15 (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + bản lề</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">18/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PC Hải Dương</Data></Cell>
+    <Cell><Data ss:Type="String">Bảo hành</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Lấy 5 Main</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Asus S510U</Data></Cell>
+    <Cell><Data ss:Type="String">Ktr + nâng ram 8gb + vs</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell 5420 (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + thay mặt B</Data></Cell>
+    <Cell><Data ss:Type="String">Chờ mặt B</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">fujitsu (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + thay mặt B</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell 15 (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + bản lề</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Macbook</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đã nhận</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">2 PC thu lại</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đã nhận</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Nhận Laptop Hoc Được</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đã nhận</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">19/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Hp G42</Data></Cell>
+    <Cell><Data ss:Type="String">Kích tắt</Data></Cell>
+    <Cell><Data ss:Type="String">Ráp trả, Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell N4110</Data></Cell>
+    <Cell><Data ss:Type="String">Ráp bán</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Asus X541U</Data></Cell>
+    <Cell><Data ss:Type="String">Nháy hình</Data></Cell>
+    <Cell><Data ss:Type="String">Đang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Nhận PC CN1</Data></Cell>
+    <Cell><Data ss:Type="String">Chạy tắt</Data></Cell>
+    <Cell><Data ss:Type="String">Đang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell 5420 (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + thay mặt B</Data></Cell>
+    <Cell><Data ss:Type="String">Đã báo, ráp mặt B sau</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Card VGA</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Giao SSD qua CN1</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Ráp main vào thung PC</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">20/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell 5420 (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + thay mặt B</Data></Cell>
+    <Cell><Data ss:Type="String">Giao Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">fujitsu (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + thay mặt B</Data></Cell>
+    <Cell><Data ss:Type="String">Giao Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell 15 (A.Quyết)</Data></Cell>
+    <Cell><Data ss:Type="String">Ktra + vs + bản lề</Data></Cell>
+    <Cell><Data ss:Type="String">Giao Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Nhận PC CN1</Data></Cell>
+    <Cell><Data ss:Type="String">Chạy tắt</Data></Cell>
+    <Cell><Data ss:Type="String">Thay main, Đang test</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Hp 15</Data></Cell>
+    <Cell><Data ss:Type="String">Thay mặt C + cell pin</Data></Cell>
+    <Cell><Data ss:Type="String">Đang làm</Data></Cell>
+    <Cell><Data ss:Type="String">Khách Lẻ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell XPS 15</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Doanh Nghiệp</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Báo main acer</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Giao lk máy c.Dung</Data></Cell>
+    <Cell><Data ss:Type="String">Qua CN1</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">21/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Hp 15</Data></Cell>
+    <Cell><Data ss:Type="String">Thay mặt C + cell pin</Data></Cell>
+    <Cell><Data ss:Type="String">Vệ Sinh (Đã giao)</Data></Cell>
+    <Cell><Data ss:Type="String">Khách Lẻ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Asus X541U</Data></Cell>
+    <Cell><Data ss:Type="String">Nháy hình</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+    <Cell><Data ss:Type="String">Khách Lẻ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PC ( Hải Đăng)</Data></Cell>
+    <Cell><Data ss:Type="String">vs + ktra cổng usb</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+    <Cell><Data ss:Type="String">Khách Lẻ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell XPS 15</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Vệ Sinh, Đang test</Data></Cell>
+    <Cell><Data ss:Type="String">Doanh Nghiệp</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dọn dẹp CN2</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Nhận máy c.Dung</Data></Cell>
+    <Cell><Data ss:Type="String">Qua CN2</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Ráp trả máy a.Huy</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">22/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell XPS 15</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Thay Cmos, Đang test</Data></Cell>
+    <Cell><Data ss:Type="String">Doanh Nghiệp</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Card VGA (CN2)</Data></Cell>
+    <Cell><Data ss:Type="String"> Không lên hình</Data></Cell>
+    <Cell><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Card VGA (a.Huy)</Data></Cell>
+    <Cell><Data ss:Type="String"> Không lên hình</Data></Cell>
+    <Cell><Data ss:Type="String">Đang làm</Data></Cell>
+    <Cell><Data ss:Type="String">HV</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Card VGA (CN2)</Data></Cell>
+    <Cell><Data ss:Type="String"> Không lên hình</Data></Cell>
+    <Cell><Data ss:Type="String">Đang làm</Data></Cell>
+    <Cell><Data ss:Type="String">HV</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Đăng bài chia sẽ CMOS</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Đặt ic cho a.Toán</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dạy học lớp K05</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">23/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Trực bên CN1</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Gửi file sơ đồ a Thien</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">24/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Sửa 2 card vga a.Huy</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">25/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Giao máy Dell c.Dung</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Giao máy Dell c.Hùng</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Sửa 2 card vga a.Huy</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Ktra và nhập (Được Học)</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dạy cài Win và Mac</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">26/4/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Ráp PC bán</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">PC HP (cf Thảo Nguên)</Data></Cell>
+    <Cell><Data ss:Type="String">Cài win</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Lap HP a.Trọng hv</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dạy ktra, ráp PC</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-03-05T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Cho chạy test máy HP dv6</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Cho chạy test máy HP 8570w</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Cho chạy test ktra 5 main pc </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Ktra macbook </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell 7389 </Data></Cell>
+    <Cell><Data ss:Type="String">Hư cổng sạc type C, pin</Data></Cell>
+    <Cell><Data ss:Type="String">Chuyển qua CN1</Data></Cell>
+    <Cell><Data ss:Type="String">Khách Lẻ</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Ktra máy học được mới nhận </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Kiếm IC card Vga</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Tạo icloud cho iphone</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Kiểm tra 2 card vga</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-04-05T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Làm file kinh nghiệm sửa chữa</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Tạo icloud và fix lỗi sim ghép iphone xs</Data></Cell>
+    <Cell><Data ss:Type="String"> </Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Làm 4 main chập tụ cho học viên thực hành</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Báo giá sạc máy HP a.Phước</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Vệ sinh máy HP a.Phước</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Sửa 2 main PC</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-05-05T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Vệ sinh máy HP a.Phước</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Ktra và nhập sheed (Được Học)</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Đang làm</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Ktra 3 máy dell + 1 máy in bán</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Giao 2 máy laptop và 1 máy in </Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-06-05T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Chạy test 2 thùng PC i3 gen 6</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Test main ráp bán</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Support UltraView</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Hỗ trợ HV</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Lấy máy in A.TƯ</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Cài máy in CN1</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Nhận 1 laptop HP (Học Được)</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s19"><Data ss:Type="DateTime">2023-08-05T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Lấy màn hình test </Data></Cell>
+    <Cell><Data ss:Type="String">Lấy về CN2</Data></Cell>
+    <Cell><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Sửa cục sạc Hp</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Sửa Vga 1050</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Xong</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Dell 7389 </Data></Cell>
+    <Cell><Data ss:Type="String">Hư cổng sạc type C, pin</Data></Cell>
+    <Cell><Data ss:Type="String">Đã trả máy</Data></Cell>
+    <Cell><Data ss:Type="String">Khách Lẻ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">Nhận máy acer e5 + Macbook air</Data></Cell>
+    <Cell><Data ss:Type="String">Tắt mở liên tục, Báo giá màn ( Macbook)</Data></Cell>
+    <Cell><Data ss:Type="String">Mới nhận</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>0</PaperSizeIndex>
+    <VerticalResolution>0</VerticalResolution>
+    <NumberofCopies>0</NumberofCopies>
+   </Print>
+   <Zoom>85</Zoom>
+   <Selected/>
+   <TopRowVisible>198</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>234</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
